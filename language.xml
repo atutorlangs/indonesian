@@ -12,12 +12,12 @@
 			   <!ELEMENT status (#PCDATA)>
 
 			   <!ATTLIST language code ID #REQUIRED>
-			]><language code="id">
+			]><language code="in">
 			<atutor-version>2.2.2</atutor-version>
 			<charset>utf-8</charset>
 			<direction>ltr</direction>
-			<reg-exp>id|indonesian</reg-exp>
-			<native-name>Indonesian</native-name>
-			<english-name>Indonesian</english-name>
+			<reg-exp>in|indo</reg-exp>
+			<native-name>Indonesia</native-name>
+			<english-name>Indonesia</english-name>
 			<status>1</status>
 		</language>
